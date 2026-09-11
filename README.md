@@ -237,3 +237,6 @@ This repository serves as the official landing page for Internet Explorer 6. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Internet Explorer 6 today!**
+
+---
+**Last updated:** 2026-09-11 21:39:08 UTC
