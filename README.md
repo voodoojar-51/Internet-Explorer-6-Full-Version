@@ -239,4 +239,4 @@ This repository serves as the official landing page for Internet Explorer 6. The
 **Get the most recent version of Internet Explorer 6 today!**
 
 ---
-**Last updated:** 2026-10-16 12:18:47 UTC
+**Last updated:** 2026-10-16 17:18:03 UTC
